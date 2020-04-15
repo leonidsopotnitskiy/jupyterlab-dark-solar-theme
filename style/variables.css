@@ -118,7 +118,7 @@ all of MD as it is not optimized for dense, information rich UIs.
    */
 
   /* Defaults use Material Design specification */
-  --jp-ui-font-color1: #FFFFFF;
+  --jp-ui-font-color0: #FFFFFF;
   --jp-ui-font-color1: #E2E2E2;
   --jp-ui-font-color2: #C2C2C2;
   --jp-ui-font-color3: #666570;
